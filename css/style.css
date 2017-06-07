@@ -1,0 +1,11 @@
+.columna_uno{
+    background: #000000;
+    color: #ffffff;
+    text-align: right;
+}
+.columna_dos{
+    background: #ff0000;
+    color: #ffff00;
+    text-align: left;
+
+}
