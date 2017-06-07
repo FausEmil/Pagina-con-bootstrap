@@ -1,11 +1,21 @@
 .columna_uno{
     background: #000000;
     color: #ffffff;
-    text-align: right;
+    text-align: center;
 }
 .columna_dos{
     background: #ff0000;
     color: #ffff00;
-    text-align: left;
+    text-align: center;
 
+}
+.columna_tres{
+    background: #0000ff;
+    color: #00aa00;
+    text-align: center;
+}
+.columna_cuatro{
+    background: #00aaff;
+    color: #ffaa00;
+    text-align: center;
 }
